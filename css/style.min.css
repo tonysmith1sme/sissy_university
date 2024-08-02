@@ -1,0 +1,271 @@
+a, a label {
+    cursor: pointer!important
+}
+
+.hoverable:hover {
+    cursor: pointer
+}
+
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block
+}
+
+.container {
+    padding: 0;
+    margin: 0 auto
+}
+
+.navbar {
+    padding: .5rem
+}
+
+.upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0
+}
+
+.object-info {
+    margin: 2px 0
+}
+
+.object-info .col {
+    margin: 5px!important;
+    padding: 0!important
+}
+
+.object-info img {
+    width: auto;
+    max-height: 20rem
+}
+
+.viewObject-img {
+    width: auto;
+    max-height: 48rem
+}
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.progressPage-object {
+    margin-bottom: 12px
+}
+
+.row {
+    margin-left: 0
+}
+
+.col, .col-auto {
+    margin: 0 auto!important
+}
+
+.nopadding {
+    margin: 5px!important;
+    padding: 0!important
+}
+
+.indicator-active {
+    background-color: #0069d9
+}
+
+.indicator-active, .indicator-complete {
+    color: #fff;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: .375rem .75rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%
+}
+
+.indicator-complete {
+    background-color: #00c851
+}
+
+.indicator-locked {
+    color: #fff;
+    background-color: #f44;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: .375rem .75rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%
+}
+
+.card {
+    width: 18rem
+}
+
+.card-img-top {
+    overflow: hidden;
+    opacity: .5
+}
+
+.card-img-top:hover {
+    opacity: 1
+}
+
+.card-img-top-locked {
+    overflow: hidden;
+    position: relative;
+    opacity: .25
+}
+
+.card-img-top-completed, .card-img-top-unlocked {
+    overflow: hidden;
+    position: relative;
+    opacity: 1
+}
+
+.card-title {
+    top: 45%
+}
+
+.card-text, .card-title {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    color: #fff;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
+}
+
+.card-text {
+    top: 50%
+}
+
+.card-subtitle {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+    color: #fff;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
+}
+
+.btn-margin {
+    margin: 2px
+}
+
+.settings-row {
+    margin-top: 24px;
+    margin-bottom: 24px
+}
+
+footer {
+    margin-top: 96px
+}
+
+.footer-item {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.pink-100 {
+    background-color: #fdecf4!important
+}
+
+.pink-100, .pink-200 {
+    color: #111!important
+}
+
+.pink-200 {
+    background-color: #f9cfe2!important
+}
+
+.pink-300 {
+    background-color: #f49fc6!important
+}
+
+.pink-300, .pink-400 {
+    color: #111!important
+}
+
+.pink-400 {
+    background-color: #ee6ea9!important
+}
+
+.pink-500 {
+    background-color: #e83e8c!important
+}
+
+.pink-500, .pink-600 {
+    color: #fff!important
+}
+
+.pink-600 {
+    background-color: #ae2f69!important
+}
+
+.pink-700 {
+    background-color: #741f46!important
+}
+
+.pink-700, .pink-800 {
+    color: #fff!important
+}
+
+.pink-800 {
+    background-color: #3a1023!important
+}
+
+.pink-900 {
+    color: #fff!important;
+    background-color: #230915!important
+}
+
+.green-light {
+    color: #000!important;
+    background-color: #b9f6ca!important
+}
+
+.green-med {
+    color: #000!important;
+    background-color: #00e676!important
+}
+
+.cyan-light {
+    color: #000!important;
+    background-color: #84ffff!important
+}
+
+.cyan-med {
+    background-color: #00e5ff!important
+}
+
+.blue-med, .cyan-med {
+    color: #000!important
+}
+
+.blue-med {
+    background-color: #2196f3!important
+}
+
+.blue-dark {
+    color: #fff!important;
+    background-color: #0d47a1!important
+}
+
+.purple-med {
+    color: #fff!important;
+    background-color: #673ab7!important
+}
+
+.purple-dark {
+    color: #fff!important;
+    background-color: #311b92!important
+}
