@@ -144,7 +144,7 @@ var app = function(t) {
 		a.r(e);
 		class s {
 			static get CURRENT_VERSION() {
-				return 2.2
+				return 2.21
 			}
 			static get REQUIRED_CREDITS_UNLOCK_ELITE_CLUBS() {
 				return 100
