@@ -1416,7 +1416,7 @@ var app = function(t) {
 						name2: "露出 奴隶",
 						prerequisites: "416 420",
 						description: "你将为大众服务。",
-						safety_alert: "可能会传播艾滋病等疾病。",
+						safety_alert: "无",
 						tier: "major",
 						daily1: "无",
 						daily2: "无",
