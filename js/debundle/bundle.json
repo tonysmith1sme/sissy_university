@@ -1,0 +1,18 @@
+{
+  "type": "webpack",
+  "entryId": "2",
+  "modules": [
+    {
+      "id": "0",
+      "path": "./0.js"
+    },
+    {
+      "id": "1",
+      "path": "./1.js"
+    },
+    {
+      "id": "2",
+      "path": "./index.js"
+    }
+  ]
+}
